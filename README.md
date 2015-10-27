@@ -14,7 +14,7 @@ brew tap alyssais/utils
 brew install [formula]
 ```
 
-See the [Formulae](Formulae) directory for a list of formulae.
+See the [Formula](Formula) directory for a list of formulae.
 
 ## Contributing
 
