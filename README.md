@@ -1,6 +1,6 @@
 # alyssais/utils
 
-A [Homebrew](https://brew.sh) tap for little command line utilities I make.
+A [Homebrew](http://brew.sh) tap for little command line utilities I make.
 
 ## Installation
 
