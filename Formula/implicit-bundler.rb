@@ -1,8 +1,7 @@
 class ImplicitBundler < Formula
   desc "Automatically install the correct version of Bundler when you need it"
   homepage "https://github.com/alyssais/implicit-bundler"
-  url "https://github.com/alyssais/implicit-bundler/archive/0.0.1.tar.gz"
-  sha256 "02e305e1432e4ef08eb69131e84f7e40e8ba225d31cf215715c6e05c6892b8ef"
+  head "https://github.com/alyssais/implicit-bundler.git"
 
   def install
     bin.install "implicit-bundle"
