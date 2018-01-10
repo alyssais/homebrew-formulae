@@ -2,6 +2,7 @@ class Table < Formula
   desc "Put things into tables"
   homepage "https://github.com/alyssais/table"
   url "https://github.com/alyssais/table/archive/v1.0.0.tar.gz"
+  sha256 "f63357b7952cd54ba966e23e4825f62047f47aa478711b5ad353a4d9421123ff"
   head "https://github.com/alyssais/table.git"
 
   def install
